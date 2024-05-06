@@ -1,4 +1,4 @@
-#Создай собственный Шутер!
+
 from pygame import *
 font.init()
 font1 = font.SysFont("Arial", 36)
